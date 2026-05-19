@@ -10,7 +10,7 @@ Me interesa seguir desarrollándome profesionalmente, aportar en equipos de trab
 
 - 🎓 Ingeniero en Informática.
 - 💻 Experiencia en desarrollo web, mobile y software.
-- 🔗 Desarrollo de formularios, landings, validaciones, APIs e integraciones.
+- 🔗 Desarrollo de sistemas informáticos, APIs, integraciones, automatización y soluciones digitales.
 - 📊 Manejo de bases de datos, análisis de información, automatización de procesos y gestión de datos.
 - ☁️ Experiencia en Salesforce Marketing Cloud, CloudPages, Data Extensions, automatizaciones, journeys y emails personalizados.
 - 🧩 Interés en desarrollo Full Stack, arquitectura de software, datos, automatización e inteligencia artificial.
@@ -120,7 +120,25 @@ Me interesa seguir desarrollándome profesionalmente, aportar en equipos de trab
 
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-Básico-000000?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware%20y%20Soporte-Básico-555555?style=for-the-badge)
-![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia%20Artificial-Intermedio-8A2BE2?style=for-the-badge)
+
+---
+
+### Inteligencia Artificial y herramientas de apoyo al desarrollo
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Intermedio-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Intermedio-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-Intermedio-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-Intermedio-000000?style=for-the-badge)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-Intermedio-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Básico-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+- Uso de herramientas de IA para apoyo en desarrollo de software.
+- Generación, revisión y mejora de código.
+- Apoyo en documentación técnica.
+- Análisis de errores y debugging.
+- Refactorización y mejora de estructura.
+- Aprendizaje asistido de nuevas tecnologías.
+- Apoyo en diseño de soluciones, APIs, bases de datos y flujos de trabajo.
 
 ---
 
@@ -272,20 +290,8 @@ Duoc UC — San Joaquín, Chile
 
 ---
 
-## 📈 GitHub Stats
-
-![Benjamín's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeBaia&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeBaia&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 
 - 📍 Santiago, Chile
 - ✉️ Email: Benja.alvarez.ahumada@hotmail.com
 - 💼 LinkedIn: [linkedin.com/in/benjaalvareza](https://www.linkedin.com/in/benjaalvareza/)
-
----
-
-> Perfil en construcción y mejora continua.
